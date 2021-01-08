@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597781191 source:d:\miret\documents\courses & trainings\introduction to embedded systems_amit\apps\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
